@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning TS, Java & Python
+🌱 I’m currently learning TS, Angular, Java & Python
 
 
 ## 🌐 Socials:
